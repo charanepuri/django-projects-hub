@@ -19,12 +19,14 @@ GitHub Repository: https://github.com/charanepuri/sambar-handbook
 Documentation Link: 
 
 4. Translator Web Application 
+Description: Translator Web Application is a modern Django-based multilingual application that enables users to translate text between 100+ world languages with auto-detection and an easy-to-use interface. It includes features such as language swapping, one-click copying, dark/light themes, responsive design, and fast translation powered by the Deep Translator library. The project demonstrates Django views and routing, third-party library integration, form handling, JavaScript DOM manipulation, responsive UI/UX design, and full-stack web development.
 Live Link: https://translator-web-application-django.onrender.com/
 GitHub Repository: https://github.com/charanepuri/translator-web-application-django
 Documentation Link: https://translator-web-application-django.onrender.com/static/translator/TranslatorWebApplication.pdf
 LinkedIn Post Link: https://lnkd.in/p/dz-vgKPr
 
 5. LinguaFlow | Full-Stack Language Translator
+Description: LinguaFlow is a full-stack Django-based language translation application that allows users to translate text across multiple supported languages and listen to translated content using text-to-speech. It integrates GoogleTranslator through Deep Translator and gTTS with a responsive interface, automatic language detection, loading states, validation, and error handling. The project demonstrates Django backend development, JSON-based API communication, third-party service integration, JavaScript Fetch API, browser audio handling, reusable templates, and responsive frontend development.
 Live Link: https://linguaflow-django.onrender.com/
 GitHub Repository: https://github.com/charanepuri/linguaflow-django
 Documentation Link: https://linguaflow-django.onrender.com/static/pdf/LinguaFlow_Project_Documentation.1734d718af1d.pdf
